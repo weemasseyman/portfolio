@@ -69,8 +69,8 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  title: 'Minrock',
-  tagline: 'Raw ideas from your personal vault, finely polished into an ultra-fast static blog.',
+  title: 'Rory Colhoun',
+  tagline: 'Rory Colhoun&apos;s Site.',
   description: 'Minimalist, typography-first Astro 7 theme crafted for technical writers and Obsidian vaults. Pure SSG, zero bloat.',
   author: 'Renato Rezende',
   // Substitua pelo seu domínio de produção (usado para SEO Canônico, OpenGraph e RSS)
